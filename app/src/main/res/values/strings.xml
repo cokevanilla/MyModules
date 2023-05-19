@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyModules</string>
+    <string name="C110">C110: Programming Fundamentals I</string>
+    <string name="C203">C203: Web Appln Development in php</string>
+    <string name="C206">C206: Software Development Process</string>
+    <string name="C218">C218: UI/UX Design for Apps</string>
+    <string name="C346">C346: Mobile App Development</string>
+    <string name="G953">G953: Life Skills III</string>
+    <string name="back">BACK</string>
+</resources>
